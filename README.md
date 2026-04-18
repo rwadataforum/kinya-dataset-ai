@@ -1,5 +1,5 @@
 # kinya-dataset-ai
-a repository with scripts &amp; worlflow on creating datasets for training of AI models relevant for Rwanda. 
+a repository with scripts &amp; workflows to ceate datasets for training of AI models relevant for Rwanda. 
 
 It will consider for example: 
 - monolingual datasets
